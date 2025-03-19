@@ -1,2 +1,1 @@
-# discrete_team
-#Hello
+# Pandas exercises
