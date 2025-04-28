@@ -3,4 +3,4 @@ TEAM LEADER: Paulina Lubińska
 COLLABORATOR: Anna Szłapczyńska
 
 # Pandas exercises
-[Open Exercise 4](./Exercise4.ipynb)
+[Open Answer 5 and 6](./Answer5and6.md)
